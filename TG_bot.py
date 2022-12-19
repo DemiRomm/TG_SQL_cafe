@@ -3,7 +3,7 @@ from telebot import types, TeleBot
 from db_client import PG_client
 
 # http://t.me/intership_kafe_bot
-tokenBot = '5827933124:AAHWq-AcTs1TmtvNP7RNceoDMDZz-XlSIRY'
+tokenBot = ''
 bot: TeleBot = telebot.TeleBot(tokenBot)
 
 
